@@ -1,0 +1,2 @@
+# Fizzbuzz
+Contains all 3 of the coding challenges given. All were completed with minimal google searching except for basic logic. Enjoyed these challenges to refresh my programming skills as it's been a while since I've done much. Unit tests for each are based on the coding document examples.
